@@ -1,0 +1,14 @@
+requests
+PyYAML
+scikit-learn
+transformers
+mediapipe
+pandas
+ultralytics
+tqdm
+matplotlib
+seaborn
+streamlit
+plotly
+pydantic
+timm
